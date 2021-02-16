@@ -13,14 +13,14 @@ let queue: Queue<Int> = Queue()
 queue.enqueue(3)
 ```
 
-3. The check is any elements in the queue
+3. The check are any elements in the queue
 ```swift
 if !queue.isEmpty {
     // Some code here
 }
 ```
 
-4. The extraction of element
+4. The extraction of the element
 ```swift
 // Use unwarping only when the queue is not Empty
 let queueHead = queue.dequeue()!
