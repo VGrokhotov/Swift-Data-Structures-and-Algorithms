@@ -13,7 +13,7 @@ let queue: Queue<Int> = Queue()
 queue.enqueue(3)
 ```
 
-3. The check are any elements in the queue
+3. The check are there any elements in the queue
 ```swift
 if !queue.isEmpty {
     // Some code here
