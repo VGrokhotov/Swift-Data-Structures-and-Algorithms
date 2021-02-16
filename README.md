@@ -1,7 +1,7 @@
-# Swift-Queue
+## Queue
 Queue implementation in Swift
 
-## How to use
+### How to use
 
 1. The initialization
 ```swift
