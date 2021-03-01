@@ -1,3 +1,13 @@
+# Swift Data Structures and Algorithms
+
+* [Stack](#Stack)
+* [Queue](#Queue)
+* [HashMap on Chains](#HashMap-on-Chains)
+* [HashMap on Open Addressing](#HashMap-on-Open-Addressing)
+
+## Stack
+TODO
+
 ## Queue
 Queue implementation in Swift
 
@@ -36,3 +46,9 @@ let amount = queue.count
 // Could be nil
 let head = queue.peek()
 ```
+
+## HashMap on Chains
+TODO
+
+## HashMap on Open Addressing
+TODO
